@@ -25,7 +25,7 @@ namespace IntroWinForms
             InitializeComponent();
             ListLoad();
         }
-
+        //Этот проект  не закончен!
         private void ListLoad()
         {
             _converters.Add(ConverterEnum.GrayScale,
