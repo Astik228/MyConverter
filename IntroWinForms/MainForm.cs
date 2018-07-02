@@ -17,7 +17,7 @@ namespace IntroWinForms
 {
     public partial class MainForm : Form
     {
-
+        // Этот проект не закончен!
         private readonly Dictionary<ConverterEnum, Tuple<MyImageConverter<IMyImage>, List<Control>>> _converters =
                                         new Dictionary<ConverterEnum, Tuple<MyImageConverter<IMyImage>, List<Control>>>();
         public MainForm()
