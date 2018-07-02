@@ -1,0 +1,34 @@
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\bin\Debug\IntroWinForms.exe.config
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\bin\Debug\IntroWinForms.exe
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\bin\Debug\IntroWinForms.pdb
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.csproj.GenerateResource.cache
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.exe
+c:\users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.pdb
+C:\Users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.MainForm.resources
+C:\Users\user\documents\visual studio 2017\Projects\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.csprojResolveAssemblyReference.cache
+E:\Астан\my music\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.csprojAssemblyReference.cache
+E:\Астан\my music\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.MainForm.resources
+E:\Астан\my music\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.Properties.Resources.resources
+E:\Астан\my music\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.csproj.GenerateResource.cache
+E:\Астан\my music\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.csproj.CoreCompileInputs.cache
+E:\Астан\my music\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.exe
+E:\Астан\my music\IntroWinForms\IntroWinForms\obj\Debug\IntroWinForms.pdb
+E:\Астан\my music\IntroWinForms\IntroWinForms\bin\Debug\IntroWinForms.exe.config
+E:\Астан\my music\IntroWinForms\IntroWinForms\bin\Debug\IntroWinForms.exe
+E:\Астан\my music\IntroWinForms\IntroWinForms\bin\Debug\IntroWinForms.pdb
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\obj\Debug\IntroWinForms.csprojAssemblyReference.cache
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\obj\Debug\IntroWinForms.MainForm.resources
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\obj\Debug\IntroWinForms.Properties.Resources.resources
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\obj\Debug\IntroWinForms.csproj.GenerateResource.cache
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\obj\Debug\IntroWinForms.csproj.CoreCompileInputs.cache
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\obj\Debug\IntroWinForms.exe
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\obj\Debug\IntroWinForms.pdb
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\bin\Debug\IntroWinForms.exe.config
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\bin\Debug\IntroWinForms.exe
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\bin\Debug\IntroWinForms.pdb
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\bin\Debug\ClassLibrary1.dll
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\bin\Debug\ImageCon.dll
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\obj\Debug\IntroWinForms.csproj.CopyComplete
+E:\Астан\my music\IntroWinForms — копия\IntroWinForms\bin\Debug\ExLibrary.dll
